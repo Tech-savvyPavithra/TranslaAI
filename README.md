@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 
 translaAI/
 │
-├── app.py             # Main Flask application
+├── app.py             
 ├── requirements.txt   # List of required Python packages
 ├── Procfile           # For deployment to platforms like Heroku
 ├── templates/

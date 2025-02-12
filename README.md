@@ -19,7 +19,7 @@ Before you begin, make sure you have Python 3.x and pip installed on your system
 
 Steps:
 Clone this repository:
-git clone https://github.com/yourusername/TranslaAI.git
+git clone https://github.com/Tech-savvyPavithra/TranslaAI.git
 
 Navigate to the project directory:
 cd TranslaAI
